@@ -1,0 +1,3 @@
+[submodule "todoApp"]
+	path = todoApp
+	url = https://github.com/dgutierrezd/GoGame.git
